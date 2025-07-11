@@ -1,7 +1,14 @@
 # 🔐 Passwort-Manager mit GUI & AES-Verschlüsselung
 
-Ein vollständiger, lokal verschlüsselter Passwort-Manager mit moderner Oberfläche.  
-Ideal für dein Cybersecurity-Portfolio – entwickelt mit Python & `tkinter`.
+Ein sicherer, lokal verschlüsselter Passwortgenerator und -verwalter in Python – ideal für dein Cybersecurity-Portfolio.  
+Enthält Passwortstärke-Bewertung, moderne GUI und vollständige AES-Verschlüsselung.
+
+![Python](https://img.shields.io/badge/python-3.10%2B-blue?logo=python)
+![GUI](https://img.shields.io/badge/interface-GUI%20(ttk)-lightgrey?logo=windows)
+![Encryption](https://img.shields.io/badge/encryption-AES256-green)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Status](https://img.shields.io/badge/project-stable-brightgreen)
+
 
 ---
 ![Vorschau](sc1.png)
