@@ -4,6 +4,7 @@ Ein vollständiger, lokal verschlüsselter Passwort-Manager mit moderner Oberfl�
 Ideal für dein Cybersecurity-Portfolio – entwickelt mit Python & `tkinter`.
 
 ---
+![Vorschau](sc1.png)
 
 ## Funktionen
 
