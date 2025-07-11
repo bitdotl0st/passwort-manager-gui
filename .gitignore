@@ -1,0 +1,14 @@
+# Sicherheit
+passwoerter.enc
+key.salt
+
+# Python-Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments
+env/
+venv/
+*.env
